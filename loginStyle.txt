@@ -1,0 +1,25 @@
+<style type="text/css">
+input::-webkit-input-placeholder{
+    color:gray;
+}
+input::-moz-placeholder{   /* Mozilla Firefox 19+ */
+    color:gray;
+}
+input:-moz-placeholder{    /* Mozilla Firefox 4 to 18 */
+    color:gray;
+}
+input:-ms-input-placeholder{  /* Internet Explorer 10-11 */ 
+    color:gray;
+}
+body {
+	font-family:"Microsoft Yahei";
+	font-size:12px;
+	margin:0;
+    background: #fff url("contains//2.jpg") 50% 0 repeat;}
+.item {
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+</style>
