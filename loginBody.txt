@@ -1,0 +1,10 @@
+<body>
+	<div class="item">
+		<form action="login.jsp" method="post">
+			<input style='width:350px; height: 40px; background: none; border-radius: 15px; border-color: #49976b; outline: none;'type="text" name="accountNumber" placeholder="   ÇëÊäÈëÄúµÄÓÊÏäÕËºÅ" size=50><br><br> 
+			<input style='width:350px; height: 40px; background: none; border-radius: 15px; border-color: #49976b; outline: none;'type="password" name="password" placeholder="   ÇëÊäÈëÄúµÄÃÜÂë" size="50"><br><br> 
+			<input style='height: 30px; background: none; border-radius: 15px; border-color: #49976b; outline: none;'type="submit" value="    µÇ    Â½     ">
+			<input style='height: 30px; background: none; border-radius: 15px; border-color: #49976b; outline: none;'type="button" value="    ×¢    ²á     " size="50"onclick="javascrtpt:window.location.href='register.html'"> 
+		</form>
+	</div>
+</body>
